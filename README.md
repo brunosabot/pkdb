@@ -1,5 +1,11 @@
 # Personal Knowledge Database
 
+## Shell
+
+### [Search](/shell/search.md)
+
+ - [Exclude results from search](/shell/search.md#exclude_results_from_search)
+
 ## VueJS
 
 ### [Slot](/vuejs/slot.md)
