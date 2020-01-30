@@ -2,9 +2,10 @@
 
 ## Git
 
-### [Clone](/git/clone.md)
+### [Commands](/git/commands.md)
 
- - [Clonable bundle](/git/clone.md#clonable_bundle)
+ - [Clonable bundle](/git/commands.md#clonable_bundle)
+ - [Push force with lease](/git/commands.md#push_force_with_lease)
 
 ## Shell
 
