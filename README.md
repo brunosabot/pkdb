@@ -6,6 +6,10 @@
 
  - [Connect and push to Azure Container Registry](/cloud/azure.md#connect_acr)
 
+### [Google Cloud Platform](/cloud/google-cloud-platform.md)
+
+- [Config - List and change zone](/cloud/google-cloud-platform.md#config_list_and_change_zone)
+
 ## Git
 
 ### [Commands](/git/commands.md)
