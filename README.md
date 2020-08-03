@@ -17,6 +17,12 @@
  - [Clonable bundle](/git/commands.md#clonable_bundle)
  - [Push force with lease](/git/commands.md#push_force_with_lease)
 
+## MacOS
+
+### [Install](/macos/install.md)
+
+- [Install Redis](/macos/install.md#install_redis)
+
 ## Shell
 
 ### [Search](/shell/search.md)
