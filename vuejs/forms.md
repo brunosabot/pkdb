@@ -2,7 +2,7 @@
 
 ## Contents
 
- - [Value reactivity](#value_reactivity)
+- [Value reactivity](#value_reactivity)
 
 ## <a name="value_reactivity"></a>Value reactivity
 
@@ -15,7 +15,7 @@ export default {
   watch: {
     value() {
       this.$refs.input.value = this.value;
-    }
+    },
   },
 };
 ```

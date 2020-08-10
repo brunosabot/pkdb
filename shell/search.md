@@ -2,7 +2,7 @@
 
 ## Contents
 
- - [Exclude results from search](#exclude_results_from_search)
+- [Exclude results from search](#exclude_results_from_search)
 
 ## <a name="exclude_results_from_search"></a>Exclude results from search
 
