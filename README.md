@@ -17,6 +17,12 @@
 - [Clonable bundle](/git/commands.md#clonable_bundle)
 - [Push force with lease](/git/commands.md#push_force_with_lease)
 
+## Jest
+
+### [Expect](/jest/expect.md)
+
+- [Match an object instance](/jest/expect.md#match_an_object_instance)
+
 ## MacOS
 
 ### [Install](/macos/install.md)
