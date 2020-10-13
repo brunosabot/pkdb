@@ -29,6 +29,12 @@
 
 - [Install Redis](/macos/install.md#install_redis)
 
+## Perfomance
+
+### [CSS](/performance/css.md)
+
+- [Lazy offscreen draw](/performance/css.md#lazy_offscreen_draw)
+
 ## Shell
 
 ### [Search](/shell/search.md)
