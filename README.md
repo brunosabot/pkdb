@@ -1,5 +1,16 @@
 # Personal Knowledge Database
 
+## A11y
+
+### [Aria](/a11y/aria.md)
+
+- [Current page](/a11y/aria.md#current_page)
+
+### [CSS](/a11y/css.md)
+
+- [Automatic color ratio](/a11y/css.md#automatic_color_ratio)
+- [Links](/a11y/css.md#links)
+
 ## Cloud
 
 ### [Azure](/cloud/azure.md)
@@ -10,12 +21,28 @@
 
 - [Config - List and change zone](/cloud/google-cloud-platform.md#config_list_and_change_zone)
 
+## CSS
+
+### [Typography](/css/typography.md)
+
+- [Fluid font-size](/css/typography.md#fluid_font_size)
+
+### [Video](/css/video.md)
+
+- [Subtitles styles](/css/video.md#subtitles_styles)
+
 ## Git
 
 ### [Commands](/git/commands.md)
 
 - [Clonable bundle](/git/commands.md#clonable_bundle)
 - [Push force with lease](/git/commands.md#push_force_with_lease)
+
+## HTML
+
+### [Forms](/html/forms.md)
+
+- [Mobile file capture](/html/forms.md#mobile_file_capture)
 
 ## Jest
 

@@ -2,8 +2,8 @@
 
 ## Contents
 
- - [Clonable bundle](#clonable_bundle)
- - [Push force with lease](#push_force_with_lease)
+- [Clonable bundle](#clonable_bundle)
+- [Push force with lease](#push_force_with_lease)
 
 ## <a name="clonable_bundle"></a>Clonable bundle
 
@@ -36,4 +36,18 @@ We can also add a .gitconfig alias to make it shorter
 ```
 [alias]
     fpush = push --force-with-lease
+```
+
+## <a name="go_to_root"></a>Go to root
+
+Using git rev-parse
+
+```shell
+cd $(git rev-parse --show-toplevel)
+```
+
+Add an alias
+
+```shell
+alias gr='cd $(git rev-parse --show-toplevel)'
 ```
